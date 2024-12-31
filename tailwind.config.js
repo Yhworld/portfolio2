@@ -10,6 +10,16 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        brown: {
+          500: "#8B4513", // SaddleBrown
+          700: "#5D2906", // Darker Brown
+        },
+        blackMamba: {
+          500: "#0a0a0a",
+         },
+        fontFamily: {
+          hero: ["CustomFont", "sans-serif"], // Add the custom font here
+        },
       },
     },
   },
