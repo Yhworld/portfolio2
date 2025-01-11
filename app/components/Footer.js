@@ -15,13 +15,13 @@ const Footer = () => {
           <p className="text-gray-400">© 2024 Yahya™. All Rights Reserved.</p>
           <div className="flex gap-8">
             <Link href="https://www.linkedin.com/in/yahya-hussein-63214a241/" target="_blank" rel="noopener noreferrer">
-              <FaLinkedin className="text-3xl hover:text-brown-500 transition duration-300" />
+              <FaLinkedin className="text-3xl text-gray-300 hover:text-brown-500 transition duration-300" />
             </Link>
             <Link href="https://github.com/Yhworld" target="_blank" rel="noopener noreferrer">
-              <FaGithub className="text-3xl hover:text-brown-500 transition duration-300" />
+              <FaGithub className="text-3xl text-gray-300 hover:text-brown-500 transition duration-300" />
             </Link>
             <Link href="mailto:Yahyahussein670@gmail.com" target="_blank" rel="noopener noreferrer">
-              <IoMailOutline className="text-3xl hover:text-brown-500 transition duration-300" />
+              <IoMailOutline className="text-3xl text-gray-300 hover:text-brown-500 transition duration-300" />
             </Link>
           </div>
         </div>
