@@ -33,7 +33,7 @@ function Projects() {
         Developed a professional website for Make It Driving, a Manchester-based driving school. The platform includes features like pricing tables, course details for beginner, manual, and automatic lessons, and an intuitive layout to enhance user experience. Focused on accessibility, modern design, and smooth navigation for potential learners.
           </p>
           <div className="mt-8 flex gap-4 space-x-6">
-          <span className="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-brown-700 dark:text-white">React</span>
+          <span className="text-xs font-medium me-2 px-2.5 py-0.5 rounded bg-brown-700 text-white">React</span>
           <Link href="https://github.com/Yhworld/Makeitdriving" target="_blank" rel="noopener noreferrer">
           <FaGithub />
           </Link>
@@ -58,7 +58,7 @@ function Projects() {
         Designed and developed an e-commerce platform for Zecado Fragrance, offering a seamless shopping experience for fragrance enthusiasts. The system includes inventory management, a sales overview feature, and a user-friendly interface to simplify product browsing and purchasing. Focused on scalability and efficient backend operations for optimal performance.
           </p>
           <div className="mt-8 flex gap-4 space-x-6">
-          <span className="bg-blue-100 text-blue-800 text-xs font-medium me-2 px-2.5 py-0.5 rounded dark:bg-brown-700 dark:text-white">React</span>
+          <span className="text-xs font-medium me-2 px-2.5 py-0.5 rounded bg-brown-700 text-white">React</span>
           <Link href="https://github.com/Yhworld/Zecacdo-ecom" target="_blank" rel="noopener noreferrer">
           <FaGithub />
           </Link>

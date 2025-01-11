@@ -34,24 +34,24 @@ When I`m not working, you`ll catch me watching anime, reading random stuff, or m
 
 <div className="mt-24 md:mt-0">
   <h1 className="pb-8 font-bold text-gray-100">Work Experience</h1>
-<ol className="relative border-s border-gray-100 dark:border-gray-400">                  
+<ol className="relative border-s border-gray-400">                  
     <li className="mb-10 ms-4">
-        <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-brown-500"></div>
-        <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-orange-600"> 2022</time>
-        <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Freelancing</h3>
-        <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.</p>
+        <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
+        <time className="mb-1 text-sm font-normal leading-none text-orange-600"> 2022</time>
+        <h3 className="text-lg font-semibold text-white">Freelancing</h3>
+        <p className="mb-4 text-base font-normal text-gray-400">Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.</p>
     </li>
     <li className="mb-10 ms-4">
-        <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-brown-500"></div>
-        <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-orange-600">2024</time>
-        <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Open source project contributions</h3>
-        <p className="text-base font-normal text-gray-500 dark:text-gray-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p>
+        <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
+        <time className="mb-1 text-sm font-normal leading-none text-orange-600">2024</time>
+        <h3 className="text-lg font-semibold text-white">Open source project contributions</h3>
+        <p className="text-base font-normal text-gray-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p>
     </li>
     <li className="ms-4">
-        <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-brown-500"></div>
-        <time className="mb-1 text-sm font-normal leading-none text-gray-400 dark:text-orange-600">April 2022</time>
-        <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Frontend Developer at Zecado Fragrance LLC</h3>
-        <p className="text-base font-normal text-gray-500 dark:text-gray-400">Get started with dozens of web components and interactive elements built on top of Tailwind CSS.</p>
+        <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
+        <time className="mb-1 text-sm font-normal leading-none text-orange-600">April 2022</time>
+        <h3 className="text-lg font-semibold text-white">Frontend Developer at Zecado Fragrance LLC</h3>
+        <p className="text-base font-normal text-gray-400">Get started with dozens of web components and interactive elements built on top of Tailwind CSS.</p>
     </li>
 </ol>
 
