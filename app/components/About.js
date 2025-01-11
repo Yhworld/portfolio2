@@ -5,7 +5,7 @@ import { DiRuby } from "react-icons/di";
 
 const About = () => {
   return (
-    <div className="text-white p-4 mb-24">
+    <div className="text-white p-4 mb-24 bg-blackMamba-500">
     <div className="container max-w-screen-xl mx-auto px-6 py-6 flex flex-col md:flex-row justify-between ">
         <div className="flex flex-row md:flex-col items-center">
         <hr className="w-4 border-2 md:border-4 md:w-2 font-bold md:pt-36" />

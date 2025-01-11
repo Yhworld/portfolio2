@@ -52,7 +52,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="text-white p-4">
+    <div className="text-white p-4 bg-blackMamba-500">
       <div className="container max-w-screen-xl mx-auto px-6 py-12 flex flex-col md:flex-row justify-between items-center">
         {/* Left Section */}
         <div className="flex flex-row md:flex-col items-center">

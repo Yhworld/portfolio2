@@ -6,7 +6,7 @@ import { IoMailOutline } from "react-icons/io5";
 const Footer = () => {
   return (
     <>
-      <div className="container max-w-screen-xl mx-auto px-6 py-12 flex flex-col justify-between items-center">
+      <div className="container bg-blackMamba-500 max-w-screen-xl mx-auto px-6 py-12 flex flex-col justify-between items-center">
         <hr className="w-full h-px mx-auto my-4 bg-gray-400 border-0 rounded md:my-10"></hr>
         <div className="flex flex-wrap space-y-6 mt-4 items-center justify-between w-full">
           <Link href="/">
