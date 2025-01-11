@@ -35,24 +35,25 @@ When I`m not working, you`ll catch me watching anime, reading random stuff, or m
 <div className="mt-24 md:mt-0">
   <h1 className="pb-8 font-bold text-gray-100">Work Experience</h1>
 <ol className="relative border-s border-gray-400">                  
-    <li className="mb-10 ms-4">
-        <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
-        <time className="mb-1 text-sm font-normal leading-none text-orange-600"> 2022</time>
-        <h3 className="text-lg font-semibold text-white">Freelancing</h3>
-        <p className="mb-4 text-base font-normal text-gray-400">Get access to over 20+ pages including a dashboard layout, charts, kanban board, calendar, and pre-order E-commerce & Marketing pages.</p>
-    </li>
-    <li className="mb-10 ms-4">
-        <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
-        <time className="mb-1 text-sm font-normal leading-none text-orange-600">2024</time>
-        <h3 className="text-lg font-semibold text-white">Open source project contributions</h3>
-        <p className="text-base font-normal text-gray-400">All of the pages and components are first designed in Figma and we keep a parity between the two versions even as we update the project.</p>
-    </li>
-    <li className="ms-4">
-        <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
-        <time className="mb-1 text-sm font-normal leading-none text-orange-600">April 2022</time>
-        <h3 className="text-lg font-semibold text-white">Frontend Developer at Zecado Fragrance LLC</h3>
-        <p className="text-base font-normal text-gray-400">Get started with dozens of web components and interactive elements built on top of Tailwind CSS.</p>
-    </li>
+<li className="mb-10 ms-4">
+    <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
+    <time className="mb-1 text-sm font-normal leading-none text-orange-600">2022</time>
+    <h3 className="text-lg font-semibold text-white">Freelancing</h3>
+    <p className="mb-4 text-base font-normal text-gray-400">Worked on diverse projects including e-commerce websites, dashboards, and marketing pages using modern web technologies like React and Tailwind CSS.</p>
+</li>
+<li className="mb-10 ms-4">
+    <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
+    <time className="mb-1 text-sm font-normal leading-none text-orange-600">2024</time>
+    <h3 className="text-lg font-semibold text-white">Open Source Project Contributions</h3>
+    <p className="text-base font-normal text-gray-400">Contributed to several open-source projects by designing, coding, and reviewing features, with a focus on maintaining Figma design parity and optimizing user interfaces.</p>
+</li>
+<li className="ms-4">
+    <div className="absolute w-3 h-3 rounded-full mt-1.5 -start-1.5 border border-gray-900 bg-brown-500"></div>
+    <time className="mb-1 text-sm font-normal leading-none text-orange-600">April 2022</time>
+    <h3 className="text-lg font-semibold text-white">Frontend Developer at Zecado Fragrance LLC</h3>
+    <p className="text-base font-normal text-gray-400">Developed and maintained the e-commerce platform for Zecado Fragrance LLC, implementing responsive components and optimizing performance using Tailwind CSS and JavaScript.</p>
+</li>
+
 </ol>
 
     </div>
